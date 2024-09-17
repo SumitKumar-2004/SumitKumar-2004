@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkumar-2004&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumar-2004" /> </p>
 
-- 🔭 I’m currently working on **E-commerce App**
-
-- 🌱 I’m currently learning **MONGODB,EXPRESS,REACT JS ,NODE JS**
+- 🌱 I’m currently working on **MONGODB,EXPRESS,REACT JS ,NODE JS**
 
 - 📫 How to reach me **skdudy546@gmail.com**
 
