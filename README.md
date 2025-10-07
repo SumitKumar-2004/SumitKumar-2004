@@ -1,15 +1,11 @@
 <!-- 💫 Animated GitHub Profile README – Sumit Kumar -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer+💻;Backend+Developer+🛠️;Full+Stack+Developer+🚀" alt="Typing Animation" />
+</p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sumit+Kumar;Frontend+Developer+💻;Backend+Developer+🛠️;Full+Stack+Developer+🚀" alt="Typing SVG" />
-</h1>
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding gif" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitkumar-2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
