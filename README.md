@@ -23,7 +23,11 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,java,bootstrap,tailwind,redux,postman,figma,mysql,git,github,vscode" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.gif" width="70" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.gif" width="70" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.gif" width="70" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.gif" width="70" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="70" />
 </p>
 
 ---
