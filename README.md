@@ -1,30 +1,24 @@
-<!-- 💫 Animated & Pro GitHub Profile README for Sumit Kumar -->
+<!-- 💫 Animated GitHub Profile README – Sumit Kumar -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Sumit+Kumar;Full+Stack+Developer+from+India;MERN+Stack+Enthusiast+🚀;Let's+build+something+amazing+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sumit+Kumar;Frontend+Developer+💻;Backend+Developer+🛠️;Full+Stack+Developer+🚀" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://i.pinimg.com/originals/e4/26/18/e42618d9e3a9cce1b276a2b5c6d2b7f8.gif" alt="coding gif" width="500"/>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sumitkumar-2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ### 🚀 About Me  
-- 🌱 Currently exploring the depths of **MongoDB, Express.js, React.js, Node.js**  
-- 💻 Passionate about **building scalable full-stack apps**  
-- 📫 Reach me at: **skdudy546@gmail.com**  
-- ⚡ Fun fact: I write fewer bugs when listening to lo-fi beats 🎧  
+- 🌱 Currently mastering **MongoDB, Express.js, React.js, and Node.js (MERN)**  
+- 🧠 Love building **scalable web apps** and exploring cutting-edge tech  
+- 📫 Reach me: **skdudy546@gmail.com**  
+- ⚡ Fun fact: Coffee ☕ + Code 💻 = Perfect Combo  
 
 ---
 
@@ -36,7 +30,7 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumitkumar-2004&show_icons=true&theme=tokyonight" alt="Sumit's GitHub stats" />
@@ -52,7 +46,7 @@
 
 ---
 
-### 🏆 GitHub Achievements
+### 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sumitkumar-2004&theme=tokyonight&no-frame=true&row=1&column=7" />
@@ -70,22 +64,10 @@
 
 ---
 
-### 🐍 Animated Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumitkumar-2004/sumitkumar-2004/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumitkumar-2004/sumitkumar-2004/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/sumitkumar-2004/sumitkumar-2004/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
 
 ---
 
-⭐ **“Talk is cheap. Show me the code.” – Linus Torvalds**
+⭐ **“Code is like humor. When you have to explain it, it’s bad.” – Cory House**
