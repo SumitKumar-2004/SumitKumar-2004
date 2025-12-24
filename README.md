@@ -1,4 +1,4 @@
-<!-- Ultra Premium GitHub Profile README for sumit1721 -->
+<!-- Ultra Premium GitHub Profile README for Sumit Kumar -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sumit%20Kumar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20•%20AI%20Enthusiast%20•%20SaaS%20Builder&descAlignY=55&descSize=20" alt="Header" />
@@ -16,24 +16,57 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" alt="About">
-  About Me
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" alt="About">
-</h2>
+## 👋 About Me
+I’m **Sumit Kumar**, a passionate Full-Stack Web Developer, AI enthusiast, and SaaS builder. I specialize in building **scalable digital solutions** with modern technologies and enjoy contributing to open-source projects.  
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+- 🌱 I’m currently exploring **AI integration in web applications** and advanced **cloud architectures**.  
+- 💬 Ask me about **MERN stack, Next.js, React, Node.js, and AWS**.  
+- 🎯 My goal: Build innovative software products that solve real-world problems.  
 
-<br/>
+---
 
-- 🎓 **MCA Student** specializing in **Advanced Web Technologies & AI Systems**
-- 💼 **Full-Stack Developer** with expertise in **Enterprise-Grade Applications**
-- 🚀 Building **SaaS Products** with **10,000+ users** potential
-- 🏆 **Problem Solver** with strong foundation in **DSA using Java**
-- 🌱 Currently mastering **DSA & LeetCode** + **AI Customer Support with Convex, Next.js & AWS**
-- 💡 Passionate about **Mathematics**, **Weightlifting**, and **Open Source**
-- 🎯 **2025 Goals**: GSOC, Full Stack Development, SaaS Development, DSA Mastery
-- ⚡ **Fun Fact**: I can solve a Rubik's cube in under 2 minutes!
+## 🛠️ Skills
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=fff" />
+</div>
 
-<br clear="both">
+---
 
+## 📈 GitHub Stats
+<div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=sumit1721&show_icons=true&theme=radical" />
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit1721&theme=radical" />
+</div>
+
+---
+
+## 🔗 Connect with Me
+<div align="center">
+  <a href="https://linkedin.com/in/sumit1721" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" />
+  </a>
+  <a href="https://twitter.com/sumit1721" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff" />
+  </a>
+  <a href="mailto:sumit@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff" />
+  </a>
+</div>
+
+---
+
+## 🌟 Projects
+- [**Recipe Finder**](https://github.com/sumit1721/recipe-finder) – React & Tailwind app for finding recipes using third-party APIs.  
+- [**Task Management System**](https://github.com/sumit1721/task-manager) – Web app with authentication, task assignment, and reminders.  
+- [**College Management System**](https://github.com/sumit1721/college-management) – Java Swing & MySQL application to manage student records.  
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</div>
