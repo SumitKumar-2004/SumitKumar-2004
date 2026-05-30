@@ -1,12 +1,12 @@
-<!-- Ultra Premium GitHub Profile README for rishabh1721 -->
+<!-- Ultra Premium GitHub Profile README for SumitKumar-2004 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rishabh%20Kumar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Software%20Engineer%20•%20Spring%20Boot%20•%20Microservices%20Architect&descAlignY=55&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sumit%20Kumar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=00F7FF" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/rishabh1721">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=45&lines=☕+Backend+Engineer+%26+Java+Developer;🚀+Spring+Boot+•+Microservices+Expert;⚡+Building+Scalable+Distributed+Systems;🐳+Docker+•+Kubernetes+•+Cloud+Native;🎯+AI+Integration+with+Spring+Framework;🔥+Open+to+Global+Remote+Opportunities" alt="Typing SVG" />
+  <a href="https://github.com/SumitKumar-2004">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=45&lines=Full+Stack+Developer;Backend+Engineer;Problem+Solver;Open+Source+Enthusiast" />
   </a>
 </div>
 
@@ -26,15 +26,15 @@
 
 <br/>
 
-- 🎓 **MCA Student** specializing in **Enterprise Java & Distributed Systems**
-- 💼 **Backend Engineer** building **scalable microservices architectures**
-- ☕ **Spring Boot Expert** mastering **Spring Cloud, Security & Data JPA**
-- 🏗️ Creating **production-grade systems** with **Docker, Kubernetes & AWS**
-- 🤖 Integrating **AI/LLM systems** with **Spring AI & RAG pipelines**
+- 🎓 **Developer** with expertise in **Full Stack Development & Software Engineering**
+- 💼 **Backend Engineer** building **scalable applications & robust architectures**
+- 🚀 **Full Stack Specialist** mastering **Frontend & Backend Technologies**
+- 🏗️ Creating **production-grade systems** with **Modern tech stacks**
+- 💻 Building **web applications** with **MERN Stack & Java**
 - 🏆 **Problem Solver** with strong foundation in **DSA & System Design**
-- 🌱 Currently deep-diving into **Microservices, Kafka, Redis & CI/CD**
-- 🎯 **2025 Goals**: Software Engineering roles, GSOC, Distributed Systems Mastery
-- ⚡ **Fun Fact**: I can solve a Rubik's cube in under 2 minutes!
+- 🌱 Currently exploring **Advanced Backend Development & Cloud Technologies**
+- 🎯 **Goals**: Contribute to meaningful projects, GSOC, System Design Mastery
+- ⚡ **Fun Fact**: I love solving challenging problems and building efficient solutions!
 
 <br clear="both">
 
@@ -43,10 +43,10 @@
 <h2 align="center">🛠️ Technology Stack & Expertise</h2>
 
 <details open>
-<summary><b>☕ Core Backend Technologies</b></summary>
+<summary><b>💻 Core Programming Languages</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,cpp&theme=dark" />
 </p>
 
 <table align="center">
@@ -56,55 +56,84 @@
       <br><b>Java</b>
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="65" height="65" />
-      <br><b>Spring Boot</b>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br><b>JavaScript</b>
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=hibernate&theme=dark" width="65" height="65" />
-      <br><b>Hibernate</b>
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="65" height="65" />
+      <br><b>Python</b>
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=maven&theme=dark" width="65" height="65" />
-      <br><b>Maven</b>
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="65" height="65" />
+      <br><b>C++</b>
     </td>
   </tr>
 </table>
 </details>
 
 <details open>
-<summary><b>🏗️ Microservices & Architecture</b></summary>
+<summary><b>🌐 Frontend Technologies</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
 </p>
 
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br><b>Docker</b>
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br><b>React.js</b>
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="65" height="65" />
-      <br><b>Kubernetes</b>
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="65" height="65" />
+      <br><b>Next.js</b>
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="65" height="65" />
-      <br><b>Apache Kafka</b>
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="65" height="65" />
+      <br><b>HTML5</b>
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="65" height="65" />
-      <br><b>Redis</b>
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="65" height="65" />
+      <br><b>CSS3</b>
     </td>
   </tr>
 </table>
 </details>
 
 <details open>
-<summary><b>🗄️ Database & ORM</b></summary>
+<summary><b>⚙️ Backend & Frameworks</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,spring&theme=dark" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="65" height="65" />
+      <br><b>Node.js</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="65" height="65" />
+      <br><b>Express.js</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="65" height="65" />
+      <br><b>Spring Boot</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="65" height="65" />
+      <br><b>MongoDB</b>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details open>
+<summary><b>🗄️ Database & Data Tools</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite&theme=dark" />
 </p>
 
 <table align="center">
@@ -122,8 +151,8 @@
       <br><b>MySQL</b>
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="65" height="65" />
-      <br><b>Spring Data JPA</b>
+      <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="65" height="65" />
+      <br><b>SQLite</b>
     </td>
   </tr>
 </table>
@@ -133,55 +162,26 @@
 <summary><b>☁️ Cloud & DevOps</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,jenkins,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel&theme=dark" />
 </p>
 
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-      <br><b>AWS Cloud</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="65" height="65" />
-      <br><b>Jenkins CI/CD</b>
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br><b>Docker</b>
     </td>
     <td align="center" width="150">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
       <br><b>Git/GitHub</b>
     </td>
     <td align="center" width="150">
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ELK" width="65" height="65" />
-      <br><b>ELK Stack</b>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details open>
-<summary><b>🎨 Frontend & Additional Skills</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind&theme=dark" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br><b>React.js</b>
+      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="65" height="65" />
+      <br><b>Vercel</b>
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="65" height="65" />
-      <br><b>Next.js</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br><b>TypeScript</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="65" height="65" />
-      <br><b>Tailwind CSS</b>
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="65" height="65" />
+      <br><b>AWS</b>
     </td>
   </tr>
 </table>
@@ -191,7 +191,7 @@
 <summary><b>🔧 Development Tools</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,swagger,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,webpack&theme=dark" />
 </p>
 
 <table align="center">
@@ -205,12 +205,12 @@
       <br><b>Postman</b>
     </td>
     <td align="center" width="150">
-      <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="Swagger" width="65" height="65" />
-      <br><b>Swagger</b>
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="65" height="65" />
+      <br><b>Figma</b>
     </td>
     <td align="center" width="150">
-      <img src="https://www.vectorlogo.zone/logos/zipkin/zipkin-icon.svg" alt="Zipkin" width="65" height="65" />
-      <br><b>Zipkin</b>
+      <img src="https://skillicons.dev/icons?i=webpack&theme=dark" width="65" height="65" />
+      <br><b>Webpack</b>
     </td>
   </tr>
 </table>
@@ -223,73 +223,73 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🏢 Enterprise Microservices Platform</h3>
+      <h3 align="center">🌐 Full Stack Web Application</h3>
       <div align="center">
-        <a href="https://github.com/rishabh1721" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabh1721&repo=spring-microservices&theme=radical&hide_border=true" alt="Microservices Project" />
+        <a href="https://github.com/SumitKumar-2004" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumar-2004&theme=radical&hide_border=true" alt="Projects" />
         </a>
         <br><br>
         <p>
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-          <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
         </p>
-        <p><strong>🏗️ Production-grade microservices with Spring Cloud</strong></p>
-        <p>✨ Features: API Gateway, Service Discovery (Eureka), Config Server, Circuit Breaker (Resilience4j), Distributed tracing (Zipkin), JWT Security, Kafka messaging, Docker & Kubernetes deployment</p>
+        <p><strong>🏗️ Complete MERN Stack Applications</strong></p>
+        <p>✨ Features: Responsive UI, RESTful APIs, Database Integration, Authentication, Real-time Updates</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 Spring AI Integration System</h3>
+      <h3 align="center">💻 Backend & API Development</h3>
       <div align="center">
-        <a href="https://github.com/rishabh1721" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabh1721&repo=spring-ai-project&theme=radical&hide_border=true" alt="Spring AI Project" />
+        <a href="https://github.com/SumitKumar-2004" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumar-2004&theme=radical&hide_border=true" alt="Backend Projects" />
         </a>
         <br><br>
         <p>
-          <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
           <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+          <img src="https://img.shields.io/badge/REST_API-FF5722?style=for-the-badge&logo=postman&logoColor=white" />
         </p>
-        <p><strong>🧠 AI-powered backend with Spring AI framework</strong></p>
-        <p>✨ Features: LLM integration, RAG pipeline, Vector database, MCP Server, Caching with Redis, REST API with Spring Boot, Real-time AI responses</p>
+        <p><strong>🔧 Robust Backend Systems</strong></p>
+        <p>✨ Features: RESTful APIs, Database Design, Authentication, Error Handling, Performance Optimization</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📚 Paramount — LMS Platform</h3>
+      <h3 align="center">📱 Responsive Web Design</h3>
       <div align="center">
-        <a href="https://github.com/rishabh1721/paramount" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabh1721&repo=paramount&theme=radical&hide_border=true" alt="Paramount Project" />
+        <a href="https://github.com/SumitKumar-2004" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumar-2004&theme=radical&hide_border=true" alt="Frontend Project" />
         </a>
         <br><br>
         <p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-          <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
         </p>
-        <p><strong>🎓 Full-stack Learning Management System</strong></p>
-        <p>✨ Features: Course management, File uploads (S3), Rich text editor, Authentication, Student dashboards, Analytics, Responsive UI</p>
+        <p><strong>🎨 Modern UI/UX Projects</strong></p>
+        <p>✨ Features: Mobile-First, Responsive Layout, Smooth Animations, Interactive Elements</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🌍 Wanderlust — Booking Platform</h3>
+      <h3 align="center">🔐 Problem Solving</h3>
       <div align="center">
-        <a href="https://github.com/rishabh1721/wanderlust" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabh1721&repo=wanderlust&theme=radical&hide_border=true" alt="Wanderlust Project" />
+        <a href="https://github.com/SumitKumar-2004" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumar-2004&theme=radical&hide_border=true" alt="DSA Project" />
         </a>
         <br><br>
         <p>
-          <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Competitive-FFE66D?style=for-the-badge&logo=github&logoColor=black" />
+          <img src="https://img.shields.io/badge/Coding-95E1D3?style=for-the-badge&logo=github&logoColor=white" />
         </p>
-        <p><strong>🏨 Full-stack travel booking system</strong></p>
-        <p>✨ Features: Secure authentication, Payment integration, Real-time reviews, Advanced filters, Admin dashboard</p>
+        <p><strong>💡 DSA & Competitive Coding</strong></p>
+        <p>✨ Features: Optimized Solutions, Pattern Recognition, System Design, Algorithm Implementation</p>
       </div>
     </td>
   </tr>
@@ -300,16 +300,16 @@
 <h2 align="center">📊 GitHub Analytics & Statistics</h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rishabh1721&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh1721&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SumitKumar-2004&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9cacc&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumar-2004&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh1721&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitKumar-2004&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh1721&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumitKumar-2004&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -324,42 +324,42 @@
         <br><br>
         <b>🌱 Currently Mastering</b>
         <br><br>
-        • Spring Boot & Spring Cloud<br>
-        • Microservices Architecture<br>
-        • Docker & Kubernetes<br>
-        • Apache Kafka & Redis<br>
-        • Spring Security & OAuth2<br>
-        • CI/CD with AWS Pipeline<br>
-        • Spring AI & LLM Integration<br>
-        • DSA & System Design
+        • Advanced JavaScript & React<br>
+        • Backend Architecture<br>
+        • System Design<br>
+        • Database Optimization<br>
+        • Cloud Deployment<br>
+        • API Development<br>
+        • Full Stack Development<br>
+        • DSA & Competitive Coding
       </td>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/000000/goal.png" width="60" alt="Goals"/>
         <br><br>
-        <b>🎯 2025 Goals</b>
+        <b>🎯 2025+ Goals</b>
         <br><br>
-        • Software Engineer Roles<br>
+        • Build impactful projects<br>
+        • Contribute to Open Source<br>
+        • Master System Design<br>
+        • Land Software Engineer Role<br>
+        • Advance Tech Skills<br>
+        • Create Scalable Apps<br>
         • Google Summer of Code<br>
-        • Microservices Mastery<br>
-        • Advanced System Design<br>
-        • Cloud Native Development<br>
-        • Enterprise Projects<br>
-        • Open Source Contributions<br>
-        • DSA Competitive Coding
+        • Competitive Coding Excellence
       </td>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/96/000000/collaboration.png" width="60" alt="Collaboration"/>
         <br><br>
         <b>🤝 Open to Collaborate On</b>
         <br><br>
-        • Microservices Projects<br>
-        • Spring Boot Applications<br>
-        • Distributed Systems<br>
-        • Open Source Java Projects<br>
-        • AI Integration with Spring<br>
-        • Cloud Native Solutions<br>
-        • Enterprise Backend Systems<br>
-        • DevOps Automation
+        • Web Development Projects<br>
+        • Full Stack Applications<br>
+        • Open Source Contributions<br>
+        • Backend Systems<br>
+        • Frontend Development<br>
+        • API Development<br>
+        • Cross-platform Apps<br>
+        • Software Solutions
       </td>
     </tr>
   </table>
@@ -376,13 +376,13 @@
         <img src="https://img.icons8.com/color/96/000000/laptop.png" width="60" alt="Remote"/>
         <br><b>Remote Internships & Full-Time Roles</b>
         <br><br>
-        🌍 Open to opportunities in <b>India, US, UK</b>
+        🌍 Open to opportunities in <b>India, US, UK & Worldwide</b>
         <br>
-        💼 Looking for <b>Software Engineer / Backend Developer</b> positions
+        💼 Looking for <b>Software Engineer / Full Stack Developer</b> positions
         <br>
-        ☕ Specializing in <b>Spring Boot & Microservices</b>
+        💻 Specializing in <b>Web Development & Backend Engineering</b>
         <br>
-        🚀 Ready to contribute to <b>impactful projects</b>
+        🚀 Ready to contribute to <b>impactful & innovative projects</b>
       </td>
     </tr>
   </table>
@@ -393,16 +393,16 @@
 <h2 align="center">📫 Connect With Me</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rishabh-kumar17/" target="_blank">
+  <a href="https://www.linkedin.com/in/sumit-kumar-2004/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rishabhmcu001@gmail.com">
+  <a href="mailto:sumitkumar20041811@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/rishabh1721" target="_blank">
+  <a href="https://github.com/SumitKumar-2004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/rishabh1721" target="_blank">
+  <a href="https://leetcode.com/SumitKumar2004/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
@@ -410,7 +410,7 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishabh1721&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SumitKumar-2004&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
@@ -426,13 +426,13 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishabh1721&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SumitKumar-2004&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20Build%20Scalable%20Systems%20Together!&fontSize=24&fontAlignY=70&animation=twinkling&fontColor=fff" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20Build%20Amazing%20Projects%20Together!&fontSize=24&fontAlign=75&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -446,6 +446,6 @@
 
 <div align="center">
   <br>
-  <p><b>© 2025 Rishabh Kumar | Software Engineer</b></p>
-  <p>Made with ❤️, ☕ and lots of Spring Boot magic</p>
+  <p><b>© 2025 Sumit Kumar | Full Stack Developer</b></p>
+  <p>Made with ❤️, ☕ and lots of code magic</p>
 </div>
