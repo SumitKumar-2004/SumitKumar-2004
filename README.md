@@ -218,91 +218,7 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Full Stack Web Application</h3>
-      <div align="center">
-        <a href="https://github.com/SumitKumar-2004" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumar-2004&theme=radical&hide_border=true" alt="Projects" />
-        </a>
-        <br><br>
-        <p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-        </p>
-        <p><strong>🏗️ Complete MERN Stack Applications</strong></p>
-        <p>✨ Features: Responsive UI, RESTful APIs, Database Integration, Authentication, Real-time Updates</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">💻 Backend & API Development</h3>
-      <div align="center">
-        <a href="https://github.com/SumitKumar-2004" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumar-2004&theme=radical&hide_border=true" alt="Backend Projects" />
-        </a>
-        <br><br>
-        <p>
-          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-          <img src="https://img.shields.io/badge/REST_API-FF5722?style=for-the-badge&logo=postman&logoColor=white" />
-        </p>
-        <p><strong>🔧 Robust Backend Systems</strong></p>
-        <p>✨ Features: RESTful APIs, Database Design, Authentication, Error Handling, Performance Optimization</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📱 Responsive Web Design</h3>
-      <div align="center">
-        <a href="https://github.com/SumitKumar-2004" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumar-2004&theme=radical&hide_border=true" alt="Frontend Project" />
-        </a>
-        <br><br>
-        <p>
-          <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        </p>
-        <p><strong>🎨 Modern UI/UX Projects</strong></p>
-        <p>✨ Features: Mobile-First, Responsive Layout, Smooth Animations, Interactive Elements</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔐 Problem Solving</h3>
-      <div align="center">
-        <a href="https://github.com/SumitKumar-2004" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumar-2004&theme=radical&hide_border=true" alt="DSA Project" />
-        </a>
-        <br><br>
-        <p>
-          <img src="https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-          <img src="https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
-          <img src="https://img.shields.io/badge/Competitive-FFE66D?style=for-the-badge&logo=github&logoColor=black" />
-          <img src="https://img.shields.io/badge/Coding-95E1D3?style=for-the-badge&logo=github&logoColor=white" />
-        </p>
-        <p><strong>💡 DSA & Competitive Coding</strong></p>
-        <p>✨ Features: Optimized Solutions, Pattern Recognition, System Design, Algorithm Implementation</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
 <h2 align="center">📊 GitHub Analytics & Statistics</h2>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SumitKumar-2004&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9cacc&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumar-2004&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117&langs_count=8" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitKumar-2004&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="GitHub Streak Stats" />
@@ -393,16 +309,16 @@
 <h2 align="center">📫 Connect With Me</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sumit-kumar-2004/" target="_blank">
+  <a href="https://www.linkedin.com/in/sumit-kumar-598643274/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:sumitkumar20041811@gmail.com">
+  <a href="mailto:skdudy546@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/SumitKumar-2004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/SumitKumar2004/" target="_blank">
+  <a href="https://leetcode.com/sumit-kumar/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
@@ -419,14 +335,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</div>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SumitKumar-2004&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </div>
 
 ---
